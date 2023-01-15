@@ -12,4 +12,5 @@ The idea is to make measurements from a few notes of an acoustical instrument an
 
 4. Compare your syntheses with the real recording and discuss differences, problems, missing features in relation to the theory. Suggest possible improvements.  
 
-For the explaination about what I did, please check "Music Acoustic - hw2.pdf".
+For the explaination about what I did, please check "Music Acoustic - hw2.pdf".  
+The sound files I created are "Gsp_ME_f_L-sus_F#5_synth.wav" and "Gsp_ME_p_L-sus_F#6_synth.wav".
