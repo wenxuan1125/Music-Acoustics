@@ -1,4 +1,4 @@
-# Assignment 3 Singing synthesis
+# Assignment 3 - Singing synthesis
 
 Assignment Spec:   
 
