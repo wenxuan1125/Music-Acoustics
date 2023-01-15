@@ -1,4 +1,4 @@
-# Assignment 2 Modal synthesis
+# Assignment 2 - Modal synthesis
 
 Assignment Spec:  
 
