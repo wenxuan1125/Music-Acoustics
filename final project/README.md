@@ -1,6 +1,6 @@
 # Final Project - Gayageum Modal Synthesis
 
-This final project is an extension from assignment 2. In this project, we synthestzed the sounds of an Eastern instrument, gayageum, and uses the synthestzed sounds to play a Chinese pop song, “Love Mourning”.
+This final project is an extension from assignment 2. In this project, we synthesized the sounds of an Eastern instrument, gayageum, and uses the synthesized sounds to play a Chinese pop song, “Love Mourning”.
 
 The sampled sound file were downloaded from Freesound.  
 
